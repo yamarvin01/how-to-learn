@@ -83,11 +83,7 @@
   padding-top: 100px;
 }
 
-.content_digits {
-  padding: 100px 0;
-}
-
-.content_kaufman {
+.kaufman {
   padding: 90px 0;
 }
 
@@ -155,6 +151,10 @@
 
 .two-columns__span-accent {
   font-weight: 600;
+}
+
+.digits {
+  padding: 100px 0;
 }
 
 .table {
