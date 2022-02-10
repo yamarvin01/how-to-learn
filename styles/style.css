@@ -79,14 +79,6 @@
   align-items: center;
 }
 
-.content_description {
-  padding-top: 100px;
-}
-
-.kaufman {
-  padding: 90px 0;
-}
-
 .section-title {
   max-width: 60%;
   text-align: center;
@@ -115,6 +107,7 @@
 
 .description {
   max-width: 80%;
+  padding-top: 100px;
 }
 
 .two-columns {
@@ -240,6 +233,7 @@
   align-items: center;
   width: 100%;
   background-color: #1f1f1f;
+  padding: 90px 0;
 }
 
 .footer {
