@@ -44,13 +44,13 @@
 }
 
 .header__subtitle {
+  border: 1px red solid;
   position: absolute;
-  bottom: 0;
-  left: 0;
+  bottom: 30px;
+  left: 64px;
   max-width: 388px;
   font-size: 18px;
   line-height: 25px;
-  padding: 0 0 30px 64px;
   margin: 0;
   z-index: 3;
 }
@@ -122,9 +122,11 @@
 }
 
 .two-columns__brief {
+  border: 1px red solid;
   max-width: 175px;
   font-size: 18px;
   line-height: 1.2;
+  font-weight: 400;
   color: #2f80ed;
   margin: 0;
 }
